@@ -1,0 +1,6 @@
+{
+  "name": "Baba Shyam Enterprises",
+  "description": "A premium B2B wholesale platform for handcrafted luxury goods including watch boxes and bar sets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
